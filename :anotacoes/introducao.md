@@ -63,7 +63,17 @@ Responsável por todas as operações realizadas no computador, divide-se em:
   Essa unidade controla a entrada e a saída de dados, envia e recebe dados das memórias e controla a
   unidade lógica e aritmética.
 
-- **Memória principal:** 
+- **Memória principal:** Quando um programa está sendo executado, são processados vários dados através de vários
+  comandos. Para que esse processamento tenha velocidade, é necessário que dados e comandos estejam sempre à
+  disposição e que não sejam perdidos. Isso é viabilizado pela **memória principal**, onde a **unidade de controle** armazena dados e comandos e carrega-os, sempre que necessário, de volta para o processamento.
+Cada parte da memória pode armazenar dados, cada parte da memória localiza-se em determinada posição, 
+chamada endereço de memória, reconhecido pelo computador. Para que não seja preciso "decorar" os endereços, 
+você pode referenciar cada parte da memória com um nome, agilizando o acesso aos dados. A memória principal divide-se em:
+   - **Memória read-only memory (ROM) ou Memória somente para leitura:** Contém dados que configuram o computador ao ser ligado e que não podem ser gravados ou alterados. nessa memória são gravados os dados do fabricante da máquina, como a configuração da placa do computador, por exemplo.
+     
+   - **Memória random access memory (RAM) ou Memória de acesso aleatório:** Utilizada na execução de um programa para o armazenamento e a leitura de dados e comandos. Essa memória atua enquanto o computador estiver ligado, quando ele é desligado, os dados contidos nela são perdidos (apagados).
+
+- **Memória auxiliar ou secundária:**  
 
 
                                             

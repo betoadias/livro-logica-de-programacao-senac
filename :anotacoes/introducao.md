@@ -73,7 +73,11 @@ você pode referenciar cada parte da memória com um nome, agilizando o acesso a
      
    - **Memória random access memory (RAM) ou Memória de acesso aleatório:** Utilizada na execução de um programa para o armazenamento e a leitura de dados e comandos. Essa memória atua enquanto o computador estiver ligado, quando ele é desligado, os dados contidos nela são perdidos (apagados).
 
-- **Memória auxiliar ou secundária:**  
+- **Memória auxiliar ou secundária:** Utilizada para guardar dados permanentemente. Exemplos de memórias auxiliares são fitas magnéticas, discos rígidos, cd-rom, dvd-rom, etc. A leitura e a gravação de dados nas memórias auxiliares são feitas pelos periféricos de entrada e saída de dados.
+
+- **Periféricos de saída de dados (Output):** Dispositivos que recebem dados do computador, na forma de pulsos elétricos, e de, alguma maneira (definida por cada periférico), convertem esses pulsos em dados como por exemplo sons, números, letras, imagens, etc, para o meio externo. A impressora é um exemplo de periférico de saída, quando uma impressão é solicitada, o computador envia os dados para a impressora, que os interpreta e os imprime no papel. Exemplos de periféricos de saída são as impressoras, placa de vídeo, placa de som, placa de fax/modem, placa de rede, etc.
+
+- **Periféricos de entrada e saída de dados (Input/Output ou I/O):** Observe que drivers, placa de faz/modem, modem e placa de rede aparecem nos exemplos de periféricos de entrada e nos exemplos de periféricos de saída. Isso porque eles são periféricos que tanto recebem dados para o computador como os transferem para o meio externo, isto é, são periféricos de entrada e saída de dados.
 
 
                                             

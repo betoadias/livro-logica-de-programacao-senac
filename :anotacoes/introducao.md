@@ -89,5 +89,29 @@ Depois de pronto, o algoritmo é convertido para uma linguagem de programação.
 
 Por exemplo, quando você clica nos botões 1, +, 5 e = da calculadora do Windows, após receber os números 1 e 5, a operação + e o sinal de =, terá como instrução realizar a soma dos números 1 e 5 e retornar o resultado, que é o número 6.
 
+### Linguagem de programação
+É o conjunto de representações e/ou regras utilizadas para criar programas. Por meio delas você estabelece uma comunicação com o computador, fazendo com que ele compreenda e execute o que você determinar. A proximidade com a linguagem humana determina o nível da linguagem de programação.
+
+Existem três níveis de linguagens de programação:
+
+- **Linguagem de máquina:** É a linguagem compreendida pelo computador, cujas instruções são representadas por vários 0 e 1 (bits).
+
+- **Linguagem de baixo nível:** É a linguagem que utiliza instruções próximas à compreensão da máquina (linguagem de máquina). Essa linguagem exige grande conhecimento de hardware. Exemplo: Assembler.
+
+- **Linguagem de alto nível:** É a linguagem cujas instruções estão próximas do nível de compreensão humana (linguagem humana). Exemplos, Java, C#, Python, etc.
+
+  **Homem** <============================================> **Maquina**
+
+             Nível alto                       Nível baixo
+
+  ### Sistema
+  Para entender o que é sistema, pense no corpo humano, formado por vários subsistemas (respiratório, nervoso, urinário, cardiovascular, musculoesquelético, etc). Os vários subsistemas formam o sistema orgânico do corpo humano.
+
+  Cada subsistema tem uma função no corpo e é formado por órgãos que também têm a sua função específica. Por exemplo, o subsistema cardiovascular, além das veias e outros órgãos, é formado pelo coração, que tem como função principal bombear o sangue.
+
+  Na informática, o conceito de sistema é semelhante, ou seja, é um conjunto de subsistemas ou módulos formados por programas que executam operações específicas. Como exemplo temos o sistema videolocadora, que é composto por três módulos, cadastro de fitas, cadastro de clientes e locação de fitas. A sua meta neste livro é conhecer a lógica necessária para construir um sistema de informação.
+
+  
+
                                             
 

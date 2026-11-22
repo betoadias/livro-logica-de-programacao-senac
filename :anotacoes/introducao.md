@@ -79,6 +79,15 @@ você pode referenciar cada parte da memória com um nome, agilizando o acesso a
 
 - **Periféricos de entrada e saída de dados (Input/Output ou I/O):** Observe que drivers, placa de faz/modem, modem e placa de rede aparecem nos exemplos de periféricos de entrada e nos exemplos de periféricos de saída. Isso porque eles são periféricos que tanto recebem dados para o computador como os transferem para o meio externo, isto é, são periféricos de entrada e saída de dados.
 
+## Software
+Software é o conjunto dos programas que comandam o funcionamento do hardware. Programas são feitos a partir de algoritmos, sequências de instruções para se atingir um objetivo.
+
+Depois de pronto, o algoritmo é convertido para uma linguagem de programação. O produto dessa conversão é um programa.
+
+### Programa
+É o conjunto de instruções que contém as operações necessárias para, a partir de dados inseridos, obter um resultado que será disponibilizado por algum dispositivo de saída.
+
+Por exemplo, quando você clica nos botões 1, +, 5 e = da calculadora do Windows, após receber os números 1 e 5, a operação + e o sinal de =, terá como instrução realizar a soma dos números 1 e 5 e retornar o resultado, que é o número 6.
 
                                             
 

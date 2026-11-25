@@ -109,7 +109,7 @@ Existem três níveis de linguagens de programação:
 
   Cada subsistema tem uma função no corpo e é formado por órgãos que também têm a sua função específica. Por exemplo, o subsistema cardiovascular, além das veias e outros órgãos, é formado pelo coração, que tem como função principal bombear o sangue.
 
-  Na informática, o conceito de sistema é semelhante, ou seja, é um conjunto de subsistemas ou módulos formados por programas que executam operações específicas. Como exemplo temos o sistema videolocadora, que é composto por três módulos, cadastro de fitas, cadastro de clientes e locação de fitas. A sua meta neste livro é conhecer a lógica necessária para construir um sistema de informação.
+  Na informática, o conceito de sistema é semelhante, ou seja, é **um conjunto de subsistemas ou módulos formados por programas que executam operações específicas**. Como exemplo temos o sistema videolocadora, que é composto por três módulos, cadastro de fitas, cadastro de clientes e locação de fitas. A sua meta neste livro é conhecer a lógica necessária para construir um sistema de informação.
 
   
 

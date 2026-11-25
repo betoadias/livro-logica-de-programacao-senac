@@ -101,9 +101,7 @@ Existem três níveis de linguagens de programação:
 
 - **Linguagem de alto nível:** É a linguagem cujas instruções estão próximas do nível de compreensão humana (linguagem humana). Exemplos, Java, C#, Python, etc.
 
-  **Homem** <============================================> **Maquina**
-
-             Nível alto                       Nível baixo
+  <img width="867" height="154" alt="nivel máquina vs homem" src="https://github.com/user-attachments/assets/5398f222-0580-4bf6-ae94-97c50587df86" />
 
   ### Sistema
   Para entender o que é sistema, pense no corpo humano, formado por vários subsistemas (respiratório, nervoso, urinário, cardiovascular, musculoesquelético, etc). Os vários subsistemas formam o sistema orgânico do corpo humano.

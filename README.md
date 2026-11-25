@@ -16,7 +16,7 @@ Repositório de estudos do livro **Lógica de Programação (Senac)** dentro da 
 
 Formato:
 
-<tipo>(<parte>): o que foi feito
+< tipo > (< parte >): o que foi feito
 
 Onde `<parte>` pode ser `intro`, `cap-01`, `cap-02`, etc.
 
@@ -38,5 +38,5 @@ Exemplos:
 
 ## Sumário de Estudo
 - **Setup:** estrutura inicial do repositório e padrão de commits
-- **Introdução:** hardware e software; familiarização com termos de programação *(em andamento)*
-- **Capítulo 1:** *(a preencher ao avançar)*
+- **Introdução:** hardware e software; familiarização com termos de programação *(concluído)*
+- **Capítulo 1:** lógica de programação e suas representações *(em andamento)*

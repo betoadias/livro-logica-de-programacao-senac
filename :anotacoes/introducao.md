@@ -34,7 +34,8 @@ onde **hard = rígido, duro (físico)** e **ware = mercadoria (parte)**.
 O computador funciona, basicamente, como uma máquina que recebe dados, processa-os 
 e retorna um ou mais dados como resultado.
 
-**Entrada** > **Computador (processamento)** > **Saída de dados**
+<img width="973" height="489" alt="sistema interno cpu" src="https://github.com/user-attachments/assets/edde4154-05c7-4397-90b6-cf1c51694f5f" />
+
 
 Para funcionar, o computador deve conter os seguintes componentes:
 

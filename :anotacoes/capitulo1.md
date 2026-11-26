@@ -52,6 +52,9 @@ está errada.
 
 **Utiliza-se a lógica para ordenar e corrigir pensamentos e ações voltados para a solução de problemas**.
 
+Na ordem acima, a primeira ação é sair do banco, como se pode sacar dinheiro em um banco estando fora dele? 
+Após parar para analisar os passos e usar a lógica, chegamos aos passos corretos abaixo:
+
 1. Entrar no banco;
 2. Procurar a fila do caixa;
 3. Entrar na fila do caixa;

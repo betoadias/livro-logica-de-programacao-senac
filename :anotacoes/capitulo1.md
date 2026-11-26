@@ -66,7 +66,48 @@ Após parar para analisar os passos e usar a lógica, chegamos aos passos corret
 9. Conferir o valor em dinheiro.
 10. Sair do banco;
 
+## Lógica de programação
+Falar em lógica de programação significa apenas contextualizar a lógica na programação de computadores, buscando a melhor 
+sequência de ações para solucionar determinado problema.
 
+Na programação de computadores, o nome dessa sequência de ações é algoritmo, que é, de maneira bem simples, a sequência 
+passos ou ações para atingir um objetivo.
+
+Já a ação, é um fato que, a partir de um estado inicial, após um período de tempo finito, produz um estado final previsível 
+e definido. 
+
+Por exemplo: a ação de abrir uma porta.
+
+<img width="717" height="157" alt="ação abrir" src="https://github.com/user-attachments/assets/3b852e53-3eef-403f-9305-55f0ed9acfff" />
+
+Ao objeto porta no estado inicial fechada, é aplicada a ação abrir por um tempo 
+determinado em segundos, levando ao estado final porta aberta, previsível e definido, pois é esperado que, quando se abre algo, 
+principalmente qualquer porta, no final, ela esteja aberta.
+
+A partir desse exemplo, pode-se redefinir o conceito de algoritmo como a descrição de um conjunto de ações que, quando obedecidos, 
+seguindo um padrão de comportamento definido (qualquer pessoa vai agir da mesma forma), resulta uma sucessão finita de passos, 
+atingindo-se o objetivo.
+
+Veja a seguir dois exemplos de padrão de comportamento.
+
+### Problema 1: Determine o sétimo número da sequência: 1, 3, 5, 7, 9, 11
+
+**Solução:** Analisando-se o problema, pode-se constatar que o padrão de comportamento, ou seja, a regra de formação, é sempre 
+somar 2 ao número anterior para obter o próximo número. Então, o sétimo número é o 13, obtido pela soma de 2 ao sexto número que 
+é o 11, logo 11 + 2 = 13.
+
+---
+
+### Problema 2: Qual a sequência de ações para se abrir uma porta?
+
+**Solução:**
+1. Andar até a porta;
+2. Pegar na maçaneta;
+3. Girar a maçaneta;
+4. Puxar a porta;
+
+Ao se estabelecerem as ações, é definida uma sequência que seria naturalmente executada por qualquer pessoa, determinando-se um 
+padrão de comportamento (qualquer pessoa agiria da mesma forma, executando as ações descritas na mesma ordem).
 
 
 

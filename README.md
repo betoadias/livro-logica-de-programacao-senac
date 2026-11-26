@@ -21,18 +21,13 @@ Formato:
 Onde `<parte>` pode ser `intro`, `cap-01`, `cap-02`, etc.
 
 Tipos:
-- `notas:` anotações e resumos em `anotacoes/`
-- `feat:` exercícios resolvidos ou código do projeto
-- `refactor:` melhoria na organização ou clareza do código sem mudar o resultado
-- `fix:` correção de erro ou bug
-- `docs:` atualização do README ou documentos
-- `chore:` ajustes de pastas, arquivos ou configuração
+- `anotacoes:` anotações do conteúdo do capítulo/`
+- `exercicios:` exercícios resolvidos
+- `ajustes:` melhoria no conteúdo já existente
+- `complemento:` adicionando um complemento no conteúdo já existente
 
-Exemplos:
-- `notas(intro): adiciona anotacoes sobre hardware, software e termos basicos`
-- `feat(cap-01): faz exercicios de entrada e saida`
-- `refactor(cap-01): melhora nomes de variaveis e organiza funcoes`
-- `fix(cap-01): corrige divisao por zero no calculo`
+Exemplo:
+- `anotacoes(introducao): adiciona anotacoes sobre hardware, software e termos basicos`
 
 ---
 

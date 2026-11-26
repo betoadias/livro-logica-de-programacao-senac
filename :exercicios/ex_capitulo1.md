@@ -5,7 +5,6 @@
 ## Tarefa: Organizar placas de trânsito em uma sequência lógica.
 
 ### Problema
----
 Um carro sai da cidade de Osasco e vai para a cidade de Embu das Artes percorrendo uma rodovia de 12 quilômetros.
 Nessa rodovia, há um trecho em obras no quilômetro 3, uma curva perigosa no quilômetro 5 e uma escola no 
 quilômetro 7. Qual a sequência das placas de indicação da estrada?
@@ -27,3 +26,45 @@ Estou pensando em separar as doze placas referentes a cada um dos quilômetros, 
 11. 10 KM;
 12. 11 KM;
 13. 12 KM - Bem vindo a Embu das Artes.
+
+---
+
+# Atividade 2 - Criando o primeiro algoritmo
+
+## Objetivo: Conhecer a forma de estruturar um algoritmo.
+
+## Tarefa: Descrever os passos necessários para colocar um carro em movimento.
+
+### Problema
+Criar um algoritmo para colocar um carro em movimento.
+
+### Solução
+Para criar o algoritmo que vai solucionar o problema, você deve colocar as ações na sequência, um em cada linha. Para isso, execute 
+os passos a seguir.
+
+1. No começo e fim do algoritmo, deve-se colocar as ações de início e fim, para informar que é daquele ponto que ele inicia e onde termina:
+
+```text
+  início
+
+  fim
+```
+2. Deve-se colocar as ações passo a passo, na ordem entre as ações de início e fim:
+   
+```text
+  início
+    Entrar no carro
+    Ajustar o banco e os espelhos retrovisores
+    Colocar o cinto de segurança
+    Colocar o câmbio em "ponto morto"
+    Ligar o carro
+    Colocar o câmbio na primeira marcha
+    Pisar no acelarador
+    Soltar o freio de mão
+    Soltar a embreagem devagar
+  fim
+```
+   
+   
+   
+

@@ -109,6 +109,27 @@ somar 2 ao número anterior para obter o próximo número. Então, o sétimo nú
 Ao se estabelecerem as ações, é definida uma sequência que seria naturalmente executada por qualquer pessoa, determinando-se um 
 padrão de comportamento (qualquer pessoa agiria da mesma forma, executando as ações descritas na mesma ordem).
 
+## Refinando as ações
+O algoritmo é um conjuto de ações que estão divididas em dois tipos: primitivas e não primitivas
+
+Uma ação é primitiva quando não se pode refiná-la ainda mais. Por exemplo, a ação início. Entretanto, a ação Colocar o câmbio em ponto morto é uma ação não primitiva, pois pode ser refinada em mais quatro ações: pisar na embreagem, pegar o câmbio, colocar o câmbio em ponto morto, soltar a embreagem.
+
+As ações não primitivas devem ser refinadas até que se tornem primitivas.
+
+As ações primitivas são comandos básicos. Essas açṍes devem estar sempre escritas em letras minúsculas para facilitar a visualização e estruturar melhor o algoritmo. No exemplo 2, acima, elas são os comandos início e fim.
+
+As ações não primitivas são escritas em letras maiúsculas e/ou minúsculas, porém a primeira letra deve estar em maiúscula. Essas ações são refinadas por meio do comando refinamento ou ref.
+
+Veja como fica o refinamento da ação Colocar o câmbio em "ponto morto".
+
+```
+  ref. Colocar o câmbio em "ponto morto"
+    Pisar na embreagem
+    Pegar o câmbio
+    Colocar o câmbio em "ponto morto"
+    Soltar a embreagem
+  fim-ref
+```
 
 
 

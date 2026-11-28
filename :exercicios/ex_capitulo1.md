@@ -64,7 +64,64 @@ os passos a seguir.
     Soltar a embreagem devagar
   fim
 ```
-   
-   
+---
+
+# Atividade 3 - Refinando as ações do primeiro algoritmo
+
+## Objetivo: Aprender a refinar um algoritmo.
+
+## Tarefa: Montar os refinamentos de um algoritmo.
+
+### Problema
+Baseado no algoritmo da atividade 2, refine as ações **Entrar no carro** e **Colocar o câmbio na primeira marcha**.
+
+### Solução
+
+1. O primeiro passo é refinar a ação **Entrar no carro**
+   - Para entrar, é necessário abrir a porta do carro. Deve-se prever que a pessoa já esteja diante da porta;
+   - Depois, sentar no banco do motorista;
+   - Finalmente, fechar a porta do carro e finalizar o refinamento.
+
+   ```
+     ref. Entrar no carro
+       Abrir a porta
+       Sentar no banco
+       Fechar a porta
+     fim-ref.
+   ```
+2. O segundo passo é refinar a ação **Colocar o câmbio na primeira marcha**.
+   - A primeira ação deve ser pisar na embreagem;
+   - A segunda ação, pegar o câmbio;
+   - A última ação do refinamento deve ser colocar o câmbio na primeira marcha.
+  
+   ```
+     ref. Colocar o câmbio na primeira marcha
+       Pisar na embreagem
+       Pegar o câmbio
+       Colocar o câmbio na primeira marcha
+     fim-ref
+   ```
+3. Substituindo os refinamentos, veja como fica o algoritmo.
+
+   ```
+     início
+       Abrir a porta
+       Sentar no banco
+       Fechar a porta
+       Ajustar o banco e os espelhos
+       Colocar o cinto de segurança
+       Pisar na embreagem
+       Pegar o câmbio
+       Colocar o câmbio em "ponto morto"
+       Soltar a embreagem
+       Ligar o carro
+       Pisar na embreagem
+       Pegar o câmbio
+       Colocar o câmbio na primeira marcha
+       Acelerar o carro
+       Soltar o freio de mão
+       Soltar a embreagem devagar
+     fim
+   ```
    
 

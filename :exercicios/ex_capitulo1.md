@@ -123,5 +123,5 @@ Baseado no algoritmo da atividade 2, refine as ações **Entrar no carro** e **C
        Soltar a embreagem devagar
      fim
    ```
-   
+   **Obs.: Somente as ações inicio e fim estão em letras minúsculas, pois somente elas e a ação refinamento (ref.) foram apresentadas como comandos ou ações primitivas**. 
 
